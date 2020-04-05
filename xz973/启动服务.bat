@@ -1,0 +1,1 @@
+python manage.py runserv2er 192.168.1.10:8000

@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>973下载</title>
+</head>
+<body>
+<form method="POST" action="/choose" >
+    {% csrf_token %}
+    要搜索的书名:<input type="text" name="bookname">
+    <input type="submit" value="搜索下载">
+</form>
+</body>
+</html>
