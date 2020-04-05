@@ -1,0 +1,5 @@
+21-51-2020 18:51:41 root:DEBUG:This is a debug message
+21-51-2020 18:51:41 root:INFO:This is an info message
+21-51-2020 18:51:41 root:WARNING:This is a warning message
+21-51-2020 18:51:41 root:ERROR:This is an error message
+21-51-2020 18:51:41 root:CRITICAL:This is a critical message
